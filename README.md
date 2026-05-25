@@ -386,8 +386,8 @@ This project is intended for educational and research purposes only. It should n
 
 ## Contact
 
-- Repository: `https://github.com/yourusername/javachain`
-- Issues: `https://github.com/yourusername/javachain/issues`
+- Repository: `https://github.com/ANGEL-MAVUYANGWA/JavaChain---Enterprise-Blockchain-Platform.git`
+- Issues: `https://github.com/ANGEL-MAVUYANGWA/JavaChain---Enterprise-Blockchain-Platform.git`
 
 ---
 
